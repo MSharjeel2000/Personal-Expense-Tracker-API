@@ -1,0 +1,42 @@
+[
+    {
+        "amount": 1500.0,
+        "category": "Shopping",
+        "date": "11-09-2026"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Denim Shirt",
+        "date": "12-09-2026"
+    },
+    {
+        "amount": 200.0,
+        "category": "Gaming",
+        "date": "12-09-2026"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "14-09-2026"
+    },
+    {
+        "amount": 500,
+        "category": "Shopping",
+        "date": "14-09-2026"
+    },
+    {
+        "amount": 800,
+        "category": "Grocery",
+        "date": "16-09-2026"
+    },
+    {
+        "amount": 1200,
+        "category": "Books",
+        "date": "16-09-2026"
+    },
+    {
+        "amount": 500,
+        "category": "Testing",
+        "date": "16-09-2026"
+    }
+]
